@@ -3,7 +3,9 @@
 #include "display_tools.h"
 
 int main() {
-
+  cout << endl;
+  cout << "Labo1Tarea1Arqui";
+  cout << endl;
   Matrix example_matrix, invers_matrix;
 
   zeroes(example_matrix, 3);
